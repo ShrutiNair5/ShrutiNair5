@@ -6,7 +6,7 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<img width="55%" align="right" alt="Shruti's github stats" src="https://github-readme-stats.vercel.app/api?username=ShrutiNair5&show_icons=true&hide_border=true">
+<img width="55%" align="left" alt="Shruti's github stats" src="https://github-readme-stats.vercel.app/api?username=ShrutiNair5&show_icons=true&hide_border=true">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ShrutiNair5.ShrutiNair5)
 
