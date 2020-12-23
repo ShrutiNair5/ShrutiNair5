@@ -8,7 +8,7 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiNair5&show_icons=true&theme=dracula)
+![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiNair5&show_icons=true&theme=highcontrast)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ShrutiNair5.ShrutiNair5)
 
 
